@@ -1,0 +1,25 @@
+7.12.2025:
+I started the engine and made the tilesystem(all tile)
+
+14.12.2025:
+I made the tilesystem not all tile
+
+15.12.2025:
+I made an admin mode for the future mapmacking and started Player rendering
+
+16.12.2025:
+I made the Player finished and made it animate and made a try-except if
+
+27.12.2025
+Finally made the drawing done
+
+30.12.2025
+made a 3 layer renderer made it loaded able
+mit it saveable imporved fps a bit and a few bug fixes
+
+31.12.2025
+i made a bit of Quality of life Things (more Settings) and layermode
+FINALLY FIXED FPS PROBLEMS WHILE MOVING THE SCREEN YIPPPPPEE  (THIRD TRY BTW)
+
+02.08.2026
+made it more compatible to more computer and servers
